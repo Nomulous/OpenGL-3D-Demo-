@@ -1,0 +1,6 @@
+.DS_Store
+src/*.o
+src/*.obj
+main.exe
+main
+.vscode
